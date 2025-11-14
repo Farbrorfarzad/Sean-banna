@@ -126,3 +126,11 @@ From LilyGO [link](https://github.com/Xinyuan-LilyGO/LilyGo-AMOLED-Series)
      - Windows: `C:\Users\{username}\Documents\Arduino`
      - macOS: `/Users/{username}/Documents/Arduino`
      - Linux: `/home/{username}/Arduino`
+
+
+Weather Data Visualization and Interaction on ESP32
+----------------------------------------------------
+- Uses SMHI Open Data API
+- Fetches 7-day forecast and historical weather data
+- Interactive touchscreen navigation between 4 screens
+- Data source: © Swedish Meteorological and Hydrological Institute (SMHI)
